@@ -1,4 +1,4 @@
-# phoneBook
+# phoneBook using node.js with mongoDB
 
 # Preview
 __________________________
